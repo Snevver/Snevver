@@ -4,7 +4,7 @@ Hey! Mijn naam is Sven Hoeksema. Ik ben een gepassioneerde backend-web ontwikkel
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sven-hoeksema/)
-[![Webiste](https://img.shields.io/badge/just%20the%20message-8A2BE2)](https://snevver.github.io)
+[![Webiste](https://img.shields.io/badge/Mijn%20website-8A2BE2)](https://snevver.github.io)
 
 
 # 💻 Tech Stack:
