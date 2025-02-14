@@ -9,6 +9,8 @@ Ik heb kennis van en ervaring met:
 
 Via mijn opleiding en persoonlijke projecten heb ik een goede basis gelegd als full-stack developer en ik ben gedreven om steeds meer te leren.
 
+In mijn vrije tijd speel ik graag gitaar, luister ik muziek, speel ik games en geniet ik van de natuur.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sven-hoeksema/)
