@@ -13,7 +13,7 @@ In mijn vrije tijd speel ik graag gitaar, luister ik muziek, speel ik games en g
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sven-hoeksema/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sven-hoeksema/)
 [![Webiste](https://img.shields.io/badge/Mijn%20website-8A2BE2)](https://snevver.github.io)
 
 
