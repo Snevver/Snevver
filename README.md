@@ -1,5 +1,13 @@
 # 💫 Over mij:
-Hey! Mijn naam is Sven Hoeksema. Ik ben een gepassioneerde backend-web ontwikkelaar met een grote interesse in het worden van een fullstack developer. Momenteel studeer ik aan de BIT Academy, waar ik veel en uitgebreid leer over verschillende technologieën. Dit pas ik dan weer toe in persoonlijke projecten. Al sinds kinds af aan ben ik geïnteresseerd in computers en de werking van technologie.<br><br>Ik heb kennis van en ervaring met:<br><br>- Programmeertalen: HTML, CSS, PHP, SQL, JavaScript<br>- Technologieën: Bootstrap, Tailwind CSS, Laravel<br>- Methodieken: Objectgeoriënteerd programmeren, UML, Scrum<br>Via mijn opleiding en persoonlijke projecten heb ik een goede basis gelegd als full-stack developer en ik ben gedreven om steeds meer te leren.
+Hey! Mijn naam is Sven Hoeksema. Ik ben een gepassioneerde back-end developer met een grote interesse in het worden van een fullstack developer. Momenteel studeer ik aan de Bit Academy, waar ik veel en uitgebreid leer over verschillende technologieën. Dit pas ik dan weer toe in persoonlijke projecten.
+
+Ik heb kennis van en ervaring met:
+
+- Programmeertalen: HTML, CSS, PHP, SQL, JavaScript
+- Technologieën: Bootstrap, Tailwind CSS, Laravel
+- Methodieken: OOP, UML, Scrum
+
+Via mijn opleiding en persoonlijke projecten heb ik een goede basis gelegd als full-stack developer en ik ben gedreven om steeds meer te leren.
 
 
 ## 🌐 Socials:
