@@ -1,3 +1,5 @@
+<img align="center" height="400" src="https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif"  />
+
 # 💫 Over mij:
 Hey! Mijn naam is Sven Hoeksema. Ik ben een back-end developer met een grote interesse in het worden van een fullstack developer. Momenteel studeer ik aan de Bit Academy, waar ik veel en uitgebreid leer over verschillende technologieën. Dit pas ik dan weer toe in persoonlijke projecten.
 
@@ -50,10 +52,5 @@ In mijn vrije tijd speel ik graag gitaar, luister ik muziek, speel ik games en g
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
-
-###
-
-<img align="center" height="400" src="https://gifdb.com/images/high/pokemon-christmas-froakie-riding-deer-33879stqmlvns7e4.webp"  />
-
 
 ###
