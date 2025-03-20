@@ -1,4 +1,4 @@
-<img align="center" height="400" src="https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif"  />
+<img align="center" height="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
 
 # 💫 Over mij:
 Hey! Mijn naam is Sven Hoeksema. Ik ben een back-end developer met een grote interesse in het worden van een fullstack developer. Momenteel studeer ik aan de Bit Academy, waar ik veel en uitgebreid leer over verschillende technologieën. Dit pas ik dan weer toe in persoonlijke projecten.
