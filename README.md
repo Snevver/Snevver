@@ -22,7 +22,7 @@ In mijn vrije tijd speel ik graag gitaar, luister ik muziek, speel ik games en g
   <a href="https://linkedin.com/in/sven-hoeksema" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://snevver.github.io/" target="_blank">
+  <a href="https://snevver.nl/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20website&logo=codesandbox&label=&color=040404&logoColor=000&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
   </a>
 </div>
