@@ -1,56 +1,76 @@
-<img align="center" height="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
-
-# 💫 Over mij:
-Hey! Mijn naam is Sven Hoeksema. Ik ben een back-end developer met een grote interesse in het worden van een fullstack developer. Momenteel studeer ik aan de Bit Academy, waar ik veel en uitgebreid leer over verschillende technologieën. Dit pas ik dan weer toe in persoonlijke projecten.
-
-Ik heb kennis van en ervaring met:
-
-- Programmeertalen: HTML, CSS, PHP, SQL, JavaScript, Python
-- Technologieën: Bootstrap, Tailwind CSS, Laravel
-- Methodieken: OOP, UML, Scrum
-
-Via mijn opleiding en persoonlijke projecten heb ik een goede basis gelegd als full-stack developer en ik ben gedreven om steeds meer te leren.
-
-In mijn vrije tijd speel ik graag gitaar, luister ik muziek, speel ik games en geniet ik van de natuur.
-<br>
-
-## 🌐 Socials:
-<div align="left">
-  <a href="https://discordapp.com/users/767329223903281174" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://linkedin.com/in/sven-hoeksema" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://snevver.nl/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20website&logo=codesandbox&label=&color=040404&logoColor=000&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
-  </a>
-</div>
-<br>
-
-# 💻 Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+<div align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="coding gif" height="400"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=snevver&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views"/>
+</div>
+
+# 👋 Hey, I'm Sven Hoeksema
+### 🚀 Laravel & Vue.js developer  
+Focused on building scalable, modern web applications and continuously growing my skillset. Currently studying at Bit Academy, applying theory directly through real-world projects.
+
+## 📊 GitHub stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snevver&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snevver&theme=radical" height="165"/>
+</div>
+
+## 💼 About me
+- 🔭 Deepening expertise in Laravel to build robust, modern web applications  
+- 💡 Interested in clean code, MVC, REST APIs, and database optimization  
+- 🎯 Goal: craft meaningful solutions that solve real-world problems  
+- 📫 Email: **contact@snevver.nl**  
+- 🌐 Portfolio: **snevver.nl**
+
+## 🛠️ Tech stack
+### Backend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+</div>
+
+### Frontend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" height="50" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50"/>
+</div>
+
+### Tools & methodologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OOP-6c63ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UML-6c63ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scrum-6c63ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVC-6c63ff?style=for-the-badge" />
+</div>
+
+## 🌐 Connect with me
+<div align="left" style="margin-top: 10px;">
+  <a href="https://linkedin.com/in/sven-hoeksema" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="https://snevver.nl/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:contact@snevver.nl" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30"/>
+  </a>
+</div>
+
+## 🎵 Beyond code
+- 🎸 Playing guitar and listening to music
+- 🎮 Gaming with friends  
+- 🌲 Anything with nature/plants  
+- 🏋️ lifting weights  
+
+---
