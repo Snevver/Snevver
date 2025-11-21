@@ -21,7 +21,7 @@ Focused on building scalable, modern web applications and continuously growing m
 - 💡 Interested in clean code, MVC, REST APIs, and database optimization  
 - 🎯 Goal: Craft meaningful solutions that solve real-world problems  
 - 📫 Email: **contact@snevver.nl**  
-- 🌐 Portfolio: **[snevver.nl](snevver.nl)**
+- 🌐 Portfolio: **[snevver.nl](https://snevver.nl)**
 
 ## 🛠️ Tech stack
 ### Backend
