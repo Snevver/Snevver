@@ -19,9 +19,9 @@ Focused on building scalable, modern web applications and continuously growing m
 ## 💼 About me
 - 🔭 Deepening expertise in Laravel to build robust, modern web applications  
 - 💡 Interested in clean code, MVC, REST APIs, and database optimization  
-- 🎯 Goal: craft meaningful solutions that solve real-world problems  
+- 🎯 Goal: Craft meaningful solutions that solve real-world problems  
 - 📫 Email: **contact@snevver.nl**  
-- 🌐 Portfolio: **snevver.nl**
+- 🌐 Portfolio: **[snevver.nl](snevver.nl)**
 
 ## 🛠️ Tech stack
 ### Backend
@@ -71,6 +71,6 @@ Focused on building scalable, modern web applications and continuously growing m
 - 🎸 Playing guitar and listening to music
 - 🎮 Gaming with friends  
 - 🌲 Anything with nature/plants  
-- 🏋️ lifting weights  
+- 🏋️ Lifting weights  
 
 ---
